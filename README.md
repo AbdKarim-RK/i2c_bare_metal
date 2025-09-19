@@ -1,6 +1,7 @@
 📌 Description
 
 Ce projet propose une implémentation bare metal du protocole I2C sur microcontrôleur STM32F4 sans utilisation de HAL ni de librairies externes.
+
 L’objectif est de comprendre et maîtriser les registres bas-niveau permettant la communication I2C, et de fournir une base simple et pédagogique pour développer des applications embarquées.
 
 ⚡ Fonctionnalités
